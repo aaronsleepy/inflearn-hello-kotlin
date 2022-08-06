@@ -12,5 +12,5 @@ fun main() {
 }
 
 class Person(name: String) {
-
+    var age = 23
 }
