@@ -31,6 +31,8 @@
 
 
 ### 12강. 코틀린에서 object 키워드를 다루는 방법
+<img width="1121" alt="image" src="https://user-images.githubusercontent.com/89061309/183290327-df8b00d5-069e-4bb6-9339-e12a52d3f2b7.png">
+
 
 ### 13강. 코틀린에서 중첩 클래스를 다루는 방법
 
