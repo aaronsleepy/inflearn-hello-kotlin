@@ -26,6 +26,10 @@
 
 ### 11강. 코틀린에서 접근 제어를 다루는 방법
 
+* kotlin에서는 패키지를 namespace 목적으로만 사용하며 가시성 목적으로는 사용하지 않는다
+<img width="1077" alt="image" src="https://user-images.githubusercontent.com/89061309/183288800-9409559d-f2e4-4ea7-9f67-ca4bef02c93d.png">
+
+
 ### 12강. 코틀린에서 object 키워드를 다루는 방법
 
 ### 13강. 코틀린에서 중첩 클래스를 다루는 방법
