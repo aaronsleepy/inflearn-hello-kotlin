@@ -58,4 +58,16 @@
 
 ## 섹션 5. 추가절으로 알아둬야할 코틀린 특성
 
+### 19강. 코틀린의 이모저모
+
+* Type Alias와 as import
+* 구조분해와 componentN 함수
+* Jump와 Label
+  * Harmful GoTo ??????
+* TakeIf와 TakeUnless
+
+### 20강. 코틀린의 scope function
+
 ## 섹션 6. 마지막 강의
+
+### 22강. 강의 마무리
